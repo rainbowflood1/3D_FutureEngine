@@ -1,0 +1,18 @@
+﻿<Window x:Class="_3D_FutureEngine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3D_FutureEngine"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Black">
+
+        <Rectangle x:Name="Create_Project_Btn" HorizontalAlignment="Center" Height="64" Margin="0,0,0,52" Stroke="#00000000" VerticalAlignment="Bottom" Width="344" Fill="DeepSkyBlue" RadiusX="3.5" RadiusY="3.5" MouseLeftButtonUp="createproject_FUNC"/>
+        <Label x:Name="createproject_BTN" Content="Create Project" HorizontalAlignment="Center" Margin="0,0,0,64" VerticalAlignment="Bottom" RenderTransformOrigin="0.495,0.525" IsTabStop="True" FontFamily="Cascadia Code" FontSize="24"/>
+        <Label x:Name="title_TXT" Content="Future Engine" HorizontalAlignment="Center" Margin="0,92,0,0" VerticalAlignment="Top" Width="194" Height="40" Background="Black" Foreground="White" FontSize="24" FontFamily="Cascadia Code"/>
+        <TextBox x:Name="projectname_TXTBOX" HorizontalAlignment="Center" Margin="0,0,0,130" TextWrapping="Wrap" Width="344" Height="18" VerticalAlignment="Bottom"/>
+        <Label x:Name="title_TXT_Copy" Content="Name" Margin="0,0,0,165" Background="Black" Foreground="White" FontSize="24" FontFamily="Cascadia Code" HorizontalAlignment="Center" Width="68" Height="40" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>

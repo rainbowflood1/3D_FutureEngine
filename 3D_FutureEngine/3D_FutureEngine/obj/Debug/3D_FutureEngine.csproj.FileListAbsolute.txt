@@ -1,0 +1,16 @@
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\bin\Debug\3D_FutureEngine.exe.config
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\bin\Debug\3D_FutureEngine.exe
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\bin\Debug\3D_FutureEngine.pdb
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine.csproj.AssemblyReference.cache
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine.csproj.SuggestedBindingRedirects.cache
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\MainWindow.g.cs
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\App.g.cs
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine_MarkupCompile.cache
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine_MarkupCompile.lref
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\MainWindow.baml
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine.g.resources
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\_3D_FutureEngine.Properties.Resources.resources
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine.csproj.GenerateResource.cache
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine.csproj.CoreCompileInputs.cache
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine.exe
+C:\Users\kids\source\repos\3D_FutureEngine\3D_FutureEngine\obj\Debug\3D_FutureEngine.pdb
